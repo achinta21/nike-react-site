@@ -1,0 +1,8 @@
+.nike-bg-banner{
+    background: #FFF9F4;
+}
+.nike-button{
+    color: lightgray;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px
+}
